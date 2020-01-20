@@ -15,3 +15,7 @@ In short, a set of organisms is selected. Then they are altered either using mut
 
 1. What is the difference between “mutation” and “crossover”? - https://ai.stackexchange.com/questions/9076/what-is-the-difference-between-mutation-and-crossover
 2. Crossover versus Mutation: A Comparative Analysis of the Evolutionary Strategy of Genetic Algorithms Applied to Combinatorial Optimization Problems (paper) - https://new.hindawi.com/journals/tswj/2014/154676/
+
+## Compositional Pattern Producing Networks (CPPNs)
+
+1. Everything from basics to usecases (Genetic Algorithms, Augmenting Topology Neural Networks, Difference between CPPN and NEAT, Historical Markings, Crossover of CPPNs, Preserving Diversity through Speciation, Usecases) - https://towardsdatascience.com/understanding-compositional-pattern-producing-networks-810f6bef1b88
